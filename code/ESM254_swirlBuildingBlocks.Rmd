@@ -1,6 +1,5 @@
 ---
 title: "ESM 254 Swirl"
-author: "Abigail Sanford"
 date: "4/11/2023"
 output: html_document
 ---
@@ -14,7 +13,9 @@ library(swirl)
 ```{r}
 swirl() #run swirl command. Now look into the console and follow the directions
 
+Abigail
 ```
+
 
 
 
