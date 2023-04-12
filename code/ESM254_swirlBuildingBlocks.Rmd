@@ -5,3 +5,17 @@ date: "4/11/2023"
 output: html_document
 ---
 
+```{r setup, include = TRUE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+library(swirl)
+```
+
+```{r}
+swirl() #run swirl command. Now look into the console and follow the directions
+
+```
+
+
+
+
